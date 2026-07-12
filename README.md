@@ -21,7 +21,6 @@ pure Python, zero dependencies.
 - [Requirement Checklist](#-requirement-checklist)
 - [Roadmap](#-roadmap)
 - [Contributing](#-contributing)
-- [License](#-license)
 
 
 ## Overview
@@ -293,14 +292,6 @@ Contributions are welcome! To propose a change:
 Please keep new rules consistent with the existing style in
 `knowledge_base.py` (clear `explanation` and actionable `advice`).
 
----
-
-## License
-
-This project is licensed under the **MIT License** — you are free to use,
-modify, and distribute it. See the [LICENSE](LICENSE) file for details.
-
----
 
 <div align="center">
 
