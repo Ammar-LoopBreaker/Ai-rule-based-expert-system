@@ -1,8 +1,5 @@
-
-
 import difflib
 import os
-
 
 def clear_screen():
     """Clear the terminal screen on both Windows and Unix-like systems."""

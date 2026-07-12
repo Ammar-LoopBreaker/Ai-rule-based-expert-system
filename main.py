@@ -1,5 +1,3 @@
-
-
 import sys
 
 from knowledge_base import SYMPTOMS, RULES
